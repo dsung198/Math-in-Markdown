@@ -28,4 +28,4 @@ Keep your error, $\epsilon$, small!
 
 This version, $\upvarepsilon$, should be prettier
 
-State space $\omega$
+State space $\Omega$, particular state $\omega$
