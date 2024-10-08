@@ -1,3 +1,14 @@
+# Cobb-Douglas Production Function
+
+$$ Y(L,K) = AL^{\beta }K^{\alpha } $$
+
+where
+- $Y$ is production/output
+- $L$ is labor
+- $K$ is capital
+- $A$ teck
+- ${\alpha }$ and ${\beta }$ are shares contributed
+
 # Inline math
 
 Here is an example with an exercise quantifier: $\forall x > 0 $
@@ -81,4 +92,16 @@ x^2 & \text{if } x \geq 0 \\
 -x^2 & \text{if } x <0
 \end{cases}
 $$
+
+ The Euler Identity
+
+$$e^{i\pi} + 1 = 0$$
+
+This elegant equation, known as Euler's Identity, connects five fundamental mathematical constants:
+- $e$ (Euler's number)
+- $i$ (the imaginary unit)
+- $\pi$ (pi)
+- 1 (the multiplicative identity)
+- 0 (the additive identity)
+
 
